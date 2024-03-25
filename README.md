@@ -1,8 +1,6 @@
 # Weather
 
-# Download the app from release section.
-
-# Simple weather app. Here is the UI : 
+### Test the application <a href="https://github.com/RanveerRathour/weather/releases/tag/v1.0.1">(link)</a>.
 
 ## Home Page
 <img src="https://github.com/RanveerRathour/weather_app/assets/109944269/e9a8ef63-12e3-4509-8769-c10cecfd8e77" width="300">
