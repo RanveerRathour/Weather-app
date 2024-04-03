@@ -3,24 +3,25 @@
 ### Test the application <a href="https://github.com/RanveerRathour/weather/releases/tag/v1.0.1">(link)</a>.
 
 ## Home Page
-<img src="https://github.com/RanveerRathour/weather_app/assets/109944269/e9a8ef63-12e3-4509-8769-c10cecfd8e77" width="300">
+<img src="https://github.com/RanveerRathour/Weather-app/assets/109944269/7098ad42-2541-455d-9ab5-9f5d33ca4356" width="300">
 
-<img src="https://github.com/RanveerRathour/weather_app/assets/109944269/a965f623-fb99-4088-8174-01f7d8ace20c" width="300">
+<img src="https://github.com/RanveerRathour/Weather-app/assets/109944269/6c809b31-3e16-44b2-af6d-6b327eefee0f" width="300">
 
 ## Air Quality Details
-<img src="https://github.com/RanveerRathour/weather_app/assets/109944269/5de10a5f-9b11-48b4-b097-4bc04be2cc4a" width="300">
+<img src="https://github.com/RanveerRathour/Weather-app/assets/109944269/a7186286-b674-4e72-851b-78162e479eab" width="300">
 
 ## Side Drawer
-<img src="https://github.com/RanveerRathour/weather_app/assets/109944269/84a4a2b0-03f5-4736-b594-2ecec627f4ab" width="300">
+<img src="https://github.com/RanveerRathour/Weather-app/assets/109944269/e3bedb35-2670-4f0a-9d74-79ad4f2a2f99" width="300">
 
 ## Settings Page
-<img src="https://github.com/RanveerRathour/weather_app/assets/109944269/cd403e65-e087-4262-a555-5c47fafd08e7" width="300">
+<img src="https://github.com/RanveerRathour/Weather-app/assets/109944269/e1faf473-85af-458a-a21a-edeff781965c" width="300">
 
 ## Inside unit settings:
-<img src="https://github.com/RanveerRathour/weather_app/assets/109944269/5828590b-d25f-4203-a71a-7702638fc746" width="300">
+<img src="https://github.com/RanveerRathour/Weather-app/assets/109944269/37d011e1-6a37-4d75-96ae-d2d0bf4320bf" width="300">
 
 # List of locations 
-<img src="https://github.com/RanveerRathour/weather_app/assets/109944269/39d2a53a-3ec9-4ec9-b203-dae6315b1bdd" width="300">
+<img src="https://github.com/RanveerRathour/Weather-app/assets/109944269/6a25ef75-f676-4b16-9400-033822a7e1f3" width="300">
 
 # Search Locations
-<img src="https://github.com/RanveerRathour/weather_app/assets/109944269/a72d6700-a95a-48f8-bfb5-8b986d1306f0" width="300">
+<img src="https://github.com/RanveerRathour/Weather-app/assets/109944269/5b32b5b6-1e72-4125-a526-34506dc99e4d" width="300">
+
